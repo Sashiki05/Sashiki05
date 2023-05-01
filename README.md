@@ -46,7 +46,7 @@ GitHub repository link: [https://github.com/Sashiki05/NASA-concept-APP](https://
 Live demo link: [https://Sashiki05.github.io/NASA-concept-APP/](https://Sashiki05.github.io/NASA-concept-APP/) SOON
 
 Screenshot:
-![Fitness App Screenshot](./NASA-concept-APP-screenshot.png) SOON
+![NASA concept APP Screenshot](./NASA-concept-APP-screenshot.png) SOON
 
 ## Looking Ahead
 
