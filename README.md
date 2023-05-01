@@ -13,7 +13,7 @@ As part of my training at the Wild Code School, I've already completed some exci
   [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  - Second project was a NASA app that involved fetching APIs. As a teamleader of the project we worked with scrum methods and sprints for each features. It was a great opportunity to combine my passion for fitness with my newfound love for tech. I'm excited about the potential of this app and how it could help people reach their fitness goals. 
+  - Second project was a NASA app that involved fetching APIs. we worked for the first time with scrum methods and sprints for each features. It was a great opportunity to combine my passion for the "space world" with my newfound love for tech. "I am very happy that this app can be a point of reference for all the space fans (specifically NASA fans) like me."
 
 Technology used: [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)	[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
