@@ -1,3 +1,4 @@
+<img src="./me.png" alt="Profile Picture" width="300" />
 <h1>Web Developer</h1>
 
 ## About Me
@@ -19,6 +20,8 @@ Technology used: [![React Badge](https://img.shields.io/badge/React-20232A?style
   [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+  <img src="./code.gif" alt="Profile Picture" width="300" />
+
 ## Project Showcase
 
 ### Project 1: Mario CV in CSS/HTML and JS
@@ -30,7 +33,7 @@ GitHub repository link: [https://github.com/Sashiki05/mario-cv](https://github.c
 Live demo link: [https://Sashiki05.github.io/mario-cv/](https://Sashiki05.github.io/mario-cv/) SOON
 
 Screenshot:
-![Mario CV Screenshot](./mario-cv-screenshot.png) SOON
+![Mario CV Screenshot](./mario-cv-screenshot.png) 
 
 ### Project 2: NASA App with React, Node, HTML, CSS, and JS
 
@@ -41,12 +44,12 @@ Description: This is a NASA app that fetches data from an API and allows users t
 
 . Created with React, Node, HTML, CSS, and JS for my Wild Code School Project 2.
 
-GitHub repository link: [https://github.com/Sashiki05/NASA-concept-APP](https://github.com/Sashiki05/NASA-concept-APP) SOON
+GitHub repository link: [https://github.com/Sashiki05/NASA-concept-APP](https://github.com/Sashiki05/NASA-concept-APP) 
 
 Live demo link: [https://Sashiki05.github.io/NASA-concept-APP/](https://Sashiki05.github.io/NASA-concept-APP/) SOON
 
 Screenshot:
-![NASA concept APP Screenshot](./NASA-concept-APP-screenshot.png) SOON
+![NASA concept APP Screenshot](./NASA-concept-APP-screenshot.png) 
 
 ## Looking Ahead
 
